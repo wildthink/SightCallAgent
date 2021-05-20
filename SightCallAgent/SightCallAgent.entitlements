@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:guest-qualif.sightcall.com</string>
+		<string>applinks:guest-dp-qualif.sightcall.com</string>
+		<string>applinks:guest-ppr.sightcall.com</string>
+		<string>applinks:guest-dp-ppr.sightcall.com</string>
+		<string>applinks:guest.sightcall.com</string>
+		<string>applinks:guest-dp.sightcall.com</string>
+		<string>applinks:mobile-qualif.sightcall.com</string>
+		<string>applinks:mobile-dp-qualif.sightcall.com</string>
+		<string>applinks:mobile-ppr.sightcall.com</string>
+		<string>applinks:mobile-dp-ppr.sightcall.com</string>
+		<string>applinks:mobile.sightcall.com</string>
+		<string>applinks:mobile-dp.sightcall.com</string>
+		<string>applinks:agent.sightcall.com</string>
+		<string>applinks:agent-ppr.sightcall.com</string>
+		<string>applinks:agent-qualif.sightcall.com</string>
+	</array>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.sightcall.sightcall.broadcast</string>
+	</array>
+</dict>
+</plist>
